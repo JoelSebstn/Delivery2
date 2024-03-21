@@ -25,22 +25,12 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import { Splash } from './screens/Splash';
+import { NavigatorRouter } from './screens/navigatorRouter';
 
-function App(): React.JSX.Element {
-  const isDarkMode = useColorScheme() == 'dark';
-
-  const backgroundStyle = {
-    backgroundColor: '#E2CBFF', flex: 1,
-  };
-
+function App() {
   return (
-    <SafeAreaView style={backgroundStyle}>
-      <StatusBar
-        barStyle={'default'}
-      />
-      <Splash />
-      <Text></Text>
-    </SafeAreaView>
+    <Splash />
+
   );
 }
 
