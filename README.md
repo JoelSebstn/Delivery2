@@ -1,5 +1,5 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
+Based on the figma project : https://www.figma.com/file/AIi4qRtURaLm6cDUaoRfWw/Delivery-App_UI-Kit-(Community)?type=design&node-id=33-444&mode=design&t=oY61TzB3cCNTraXX-0
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
